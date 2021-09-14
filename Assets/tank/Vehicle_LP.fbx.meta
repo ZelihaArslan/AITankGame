@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 97ef8fa58f11d3a479524327b2e88216
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Vehicle_Glass_LP
+    100002: Vehicle_Interior_LP
+    100004: //RootNode
+    100006: Vehicle_Main_LP
+    100008: Vehicle_Wheel_LP
+    400000: Vehicle_Glass_LP
+    400002: Vehicle_Interior_LP
+    400004: //RootNode
+    400006: Vehicle_Main_LP
+    400008: Vehicle_Wheel_LP
+    2100000: Wheels__Untitled
+    2100002: Glass__Untitled
+    2100004: Main__Untitled
+    2100006: Interior__Untitled
+    2300000: Vehicle_Glass_LP
+    2300002: Vehicle_Interior_LP
+    2300004: Vehicle_Main_LP
+    2300006: Vehicle_Wheel_LP
+    3300000: Vehicle_Glass_LP
+    3300002: Vehicle_Interior_LP
+    3300004: Vehicle_Main_LP
+    3300006: Vehicle_Wheel_LP
+    4300000: Vehicle_Wheel_LP
+    4300002: Vehicle_Glass_LP
+    4300004: Vehicle_Main_LP
+    4300006: Vehicle_Interior_LP
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass__Untitled
+    second: {fileID: 2100000, guid: 4f4ae393b84711847a58da1cef8d656e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior__Untitled
+    second: {fileID: 2100000, guid: 11ae7a54629e5244e8fb677266ae16d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main__Untitled
+    second: {fileID: 2100000, guid: c53e6b211f00cc34ca63101ab2a86d9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheels__Untitled
+    second: {fileID: 2100000, guid: a5f7152dcc3027147b4d30c5b4114054, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.099999994
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
